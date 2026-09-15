@@ -1,0 +1,11 @@
+{
+  "slug": "loaded-data-calculator",
+  "name": "Loaded Data Calculator",
+  "kind": "tooling",
+  "description": "Plan an explicit v1 loaded-accounts-data-size limit with headroom.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
