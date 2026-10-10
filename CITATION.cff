@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "loaded-data-calculator"
+abstract: "Plan an explicit v1 loaded-accounts-data-size limit with headroom."
+repository-code: "https://github.com/nirholas/loaded-data-calculator"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
