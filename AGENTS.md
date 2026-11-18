@@ -8,7 +8,7 @@ Plan an explicit v1 loaded-accounts-data-size limit with headroom.
 
 - Source: https://github.com/nirholas/loaded-data-calculator
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
